@@ -1,1 +1,1 @@
-Here is a notebook with the task and solution. The data is taken from here: https://www.kaggle.com/datasets/raviiloveyou/predict-taxi-fare-with-a-bigquery-ml-forecasting/data
+Here is also a notebook, but with a different problem and solution using a logistic regression model. The data is taken from here: https://www.kaggle.com/datasets/raviiloveyou/predict-taxi-fare-with-a-bigquery-ml-forecasting/data
