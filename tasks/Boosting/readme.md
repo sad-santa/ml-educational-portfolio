@@ -1,2 +1,2 @@
-Here is a notebook with the task and solution. The data is taken from here: 
+Here is a notebook with the task and solution using a boosting model. The data is taken from here: 
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
